@@ -1,0 +1,2 @@
+# Perfect_Guess
+perfect guess is a type of game where user have to guess the number if he guesses the correct number then display "You guessed it right!" and if he guess the wrong number and smaller than the correct number then display "You guessed it wrong! please enter the larger number" and if he guess the wrong number and larger than the correct number then display "You guessed it wrong! please enter smaller number" this project is made using python
